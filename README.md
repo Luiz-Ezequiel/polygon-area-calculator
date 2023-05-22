@@ -1,5 +1,5 @@
 # Polygon Area Calculator
-Projeto do curso de Ciência da Computação em Python de FreeCodeCamp
+Projeto 4 do curso de Ciência da Computação em Python do FreeCodeCamp
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
